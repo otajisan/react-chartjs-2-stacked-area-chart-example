@@ -1,0 +1,27 @@
+{
+  "main": "index.tsx",
+  "dependencies": {
+    "chart.js": "^3.6.0",
+    "faker": "5.5.3",
+    "react": "18.2.0",
+    "react-chartjs-2": "^4.0.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "@types/faker": "5.5.9",
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.9",
+    "typescript": "4.9.3"
+  },
+  "name": "44e6by",
+  "description": null,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
